@@ -19,5 +19,6 @@ Then you can setup the project:
 git clone git@github.com:sass/libsass.com.git
 cd libsass.com
 npm install
+bower install
 grunt
 ```
